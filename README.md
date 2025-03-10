@@ -43,6 +43,28 @@
 
 ---
 
+## 🏆 **Most Used Languages**
+<p align="center">
+  <a href="https://github.com/LittleCodr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleCodr&layout=compact&theme=radical&langs_count=8&hide_border=true&animation=wave" width="48%">
+  </a>
+</p>
+
+### 🚀 **Tech Stack Visuals**
+<p align="center">
+  <a href="https://developer.android.com/" title="Android Dev">
+    <img src="https://skillicons.dev/icons?i=android,kotlin,java" width="200">
+  </a>
+  <a href="https://www.tensorflow.org/" title="AI & ML">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow" width="140">
+  </a>
+  <a href="https://react.dev/" title="Web Dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" width="200">
+  </a>
+  <a href="https://firebase.google.com/" title="Databases">
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgresql" width="200">
+  </a>
+</p>
 
 
 ---
