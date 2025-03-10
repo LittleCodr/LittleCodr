@@ -50,8 +50,6 @@
 
 ### 📊 **GitHub Stats & Contributions**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LittleCodr&count_private=true&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=1800" width="48%">
-  <img src="https://streak-stats.demolab.com?user=LittleCodr&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%">
 </p>
 
 <p align="center">
