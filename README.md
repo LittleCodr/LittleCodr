@@ -122,9 +122,7 @@
 ---
 ## 🏆 **Certifications & Achievements**
 <p align="center">
-  <a href="https://about.google" title="Google STEP Intern 2025">
-    <img src="https://img.shields.io/badge/Google%20STEP%20Intern-2025-%234285F4?style=for-the-badge&logo=google&logoColor=white">
-  </a>
+
   <a href="https://gdg.community.dev/" title="Google Developers Group Technical Team">
     <img src="https://img.shields.io/badge/Google%20Developers%20Group-Tech%20Team-%230073CF?style=for-the-badge&logo=google&logoColor=white">
   </a>
