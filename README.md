@@ -66,10 +66,13 @@
 
 
 ### 🚀 **Featured Projects**
-#### 🌟 **AI & Automation**
+
 - 🤖 **[Vidhya AI](https://vidhyaai.com)** – AI Study Assistant for Competitive Exams  
 - 🎯 **[Prep Library](https://preplibrary.xyz/)** – Access thousands of premium books and study materials
-- 🏗 **[Lotti PYQs](pyq.studyratna.in)** – Smart past question paper solutions  
+- 🏗 **[Lotti PYQs](pyq.studyratna.in)** – Smart past question paper solutions
+- 🎓 **[Alpha Study Squad](https://alphastudysquad.co)** – Personalized & interactive learning platform  
+- 📘 **[Study Ratna](https://studyratna.co)** – Free study material resources app
+- 😈 **[AI Powered Resume Builder](AI-Powered Resume Builder )** - No Login Required – & 100% ATS Score
 
 #### 🌿 **Web & App Development**
 - 🌾 **[Farmers Market App](https://play.google.com/store/apps/details?id=com.balluboss.farmersmarket)** – Online Marketplace for Farmers  
@@ -79,25 +82,28 @@
 
 ---
 
-### 📝 **Recent Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-🔹 **[Building Vidhya AI from Scratch](https://vidhyaai.com/blog/building-vidhya-ai)**  
-🔹 **[Cracking Google STEP: My Journey](https://vidhyaai.com/blog/google-step-journey)**  
-🔹 **[10 Productivity Tips for Developers](https://vidhyaai.com/blog/productivity-tips)**  
-<!-- BLOG-POST-LIST:END -->
-
-🔗 *More Blogs:* [Read More](https://vidhyaai.com/blog)
 
 ---
 
 ### 🌐 **Connect with Me**
 <p align="center">
-  <a href="https://vidhyaai.com"><img src="https://img.shields.io/badge/Website-vidhyaai.com-orange?style=for-the-badge&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/littlecodr"><img src="https://img.shields.io/badge/LinkedIn-Mayank-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/mayank"><img src="https://img.shields.io/badge/Twitter-Mayank-blue?style=for-the-badge&logo=twitter"></a>
-  <a href="https://t.me/mayank_about"><img src="https://img.shields.io/badge/Telegram-%40mayank_about-blue?style=for-the-badge&logo=telegram"></a>
-  <a href="mailto:hello@littlecodr.co"><img src="https://img.shields.io/badge/Email-hello%40littlecodr.co-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://littlecodr.co">
+    <img src="https://img.shields.io/badge/Website-littlecodr.co-orange?style=for-the-badge&logo=google-chrome">
+  </a>
+  <a href="https://www.linkedin.com/in/littlecodr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayank-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="http://t.me/mayank_about">
+    <img src="https://img.shields.io/badge/Telegram-Personal-%23026AA7?style=for-the-badge&logo=telegram">
+  </a>
+  <a href="https://t.me/+ZLvsQjiB3sIzYmY1">
+    <img src="https://img.shields.io/badge/Telegram-Community-%232CA5E0?style=for-the-badge&logo=telegram">
+  </a>
+  <a href="mailto:hello@littlecodr.co">
+    <img src="https://img.shields.io/badge/Email-hello%40littlecodr.co-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
+
 
 ---
 
