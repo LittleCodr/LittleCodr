@@ -43,10 +43,7 @@
 
 ---
 
-### 🚀 **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,kotlin,java,python,tensorflow,firebase,react,nextjs,tailwind,linux,github,azure,aws" />
-</p>
+
 
 ---
 
