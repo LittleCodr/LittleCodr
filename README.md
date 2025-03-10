@@ -80,6 +80,22 @@
 
 ---
 
+## ⚡ **Power Moves – Tech Stunts I Pulled Off(100% TRUE OFC 👽🥲🫠)**
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
+</p>
+
+🚀 **Hacked a toaster to tweet when my bread is toasted**  
+🕹️ **Built an AI that plays Flappy Bird better than me**  
+💾 **Turned a Raspberry Pi into a private GitHub CI/CD runner**  
+🛸 **Made an AI that recognizes my voice & opens my garage**  
+📟 **Reverse-engineered a broken LCD to display memes dynamically**  
+🧠 **Trained an LLM to generate jokes only I would laugh at**  
+💀 **Got an AI agent to automate Tinder replies (It did too well...)**  
+
+💡 *What next? Maybe I’ll teach AI to order my coffee before I even know I want one...*  
+
+---
 
 ---
 
@@ -104,10 +120,35 @@
 
 
 ---
+## 🏆 **Certifications & Achievements**
+<p align="center">
+  <a href="https://about.google" title="Google STEP Intern 2025">
+    <img src="https://img.shields.io/badge/Google%20STEP%20Intern-2025-%234285F4?style=for-the-badge&logo=google&logoColor=white">
+  </a>
+  <a href="https://gdg.community.dev/" title="Google Developers Group Technical Team">
+    <img src="https://img.shields.io/badge/Google%20Developers%20Group-Tech%20Team-%230073CF?style=for-the-badge&logo=google&logoColor=white">
+  </a>
+  <a href="https://developer.apple.com/" title="iOS Developer at Apple">
+    <img src="https://img.shields.io/badge/iOS%20Developer-Apple-%23000000?style=for-the-badge&logo=apple&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.microsoft.com/en-us/learning/certification-overview.aspx" title="Microsoft Certified: Azure Fundamentals">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-%230078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  </a>
+  <a href="https://www.coursera.org" title="Supervised Machine Learning - Coursera">
+    <img src="https://img.shields.io/badge/Supervised%20ML-Coursera-%2325A768?style=for-the-badge&logo=coursera&logoColor=white">
+  </a>
+  <a href="https://www.ibm.com/training/badge" title="AI & Automation - Arcade Certification Zone">
+    <img src="https://img.shields.io/badge/AI%20%26%20Automation-Arcade%20Certification-%23FF6F00?style=for-the-badge&logo=ibm&logoColor=white">
+  </a>
+</p>
+
 
 ---
 
-## 🤖 **Fun Stuff – Techy & Cool**
+## 🤖 **😈😈😈😈😈**
 <p align="center">
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="160">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="160">
