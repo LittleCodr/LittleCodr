@@ -38,16 +38,21 @@
 ---
 
 ### 📊 **GitHub Stats & Contributions**
+### 📊 **GitHub Stats & Contributions**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LittleCodr&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LittleCodr&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=LittleCodr&count_private=true&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=1800" width="48%">
+  <img src="https://streak-stats.demolab.com?user=LittleCodr&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%">
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleCodr&bg_color=1A1B27&color=38BCF8&line=F85D7F&point=38BCF8&hide_border=true" width="95%">
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LittleCodr&label=Profile%20Views&color=red&style=flat">
+  <img src="https://img.shields.io/github/followers/LittleCodr?style=social">
+</p>
+
 
 ### 🚀 **Featured Projects**
 #### 🌟 **AI & Automation**
