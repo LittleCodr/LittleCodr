@@ -101,9 +101,9 @@
   <a href="https://littlecodr.co">
     <img src="https://img.shields.io/badge/Website-littlecodr.co-orange?style=for-the-badge&logo=google-chrome">
   </a>
-  <a href="https://www.linkedin.com/in/littlecodr/">
+<!--  <a href="https://www.linkedin.com/in/littlecodr/">
     <img src="https://img.shields.io/badge/LinkedIn-Mayank-blue?style=for-the-badge&logo=linkedin">
-  </a>
+  </a> -->
   <a href="http://t.me/mayank_about">
     <img src="https://img.shields.io/badge/Telegram-Personal-%23026AA7?style=for-the-badge&logo=telegram">
   </a>
