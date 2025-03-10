@@ -72,13 +72,11 @@
 - 🏗 **[Lotti PYQs](pyq.studyratna.in)** – Smart past question paper solutions
 - 🎓 **[Alpha Study Squad](https://alphastudysquad.co)** – Personalized & interactive learning platform  
 - 📘 **[Study Ratna](https://studyratna.co)** – Free study material resources app
-- 😈 **[AI Powered Resume Builder](AI-Powered Resume Builder )** - No Login Required – & 100% ATS Score
+- 😈 **[AI Powered Resume Builder](https://resume-builder-gamma-lilac-30.vercel.app/)** - No Login Required – & 100% ATS Score
 
-#### 🌿 **Web & App Development**
-- 🌾 **[Farmers Market App](https://play.google.com/store/apps/details?id=com.balluboss.farmersmarket)** – Online Marketplace for Farmers  
-- 📱 **Android & iOS Apps** – AI-powered tools for productivity  
 
-🔗 *More Projects:* [GitHub Repositories](https://github.com/LittleCodr?tab=repositories)
+
+🔗 *More Projects:* [Click Here](https://littlecodr.co/#projects)
 
 ---
 
@@ -107,21 +105,14 @@
 
 ---
 
-### 🎯 **Goals for 2025**
-✅ Launch **Vidhya AI** globally 🚀  
-✅ Expand **Prep Library Telegram Bot** 📚  
-✅ Build a **Multi-Million Dollar Startup** 💰  
-✅ Get **Google Software Engineer Role** 🎯  
-
 ---
 
-### 🚀 **Fun Stuff**
+## 🤖 **Fun Stuff – Techy & Cool**
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150"> 
-  <img src="https://media.giphy.com/media/3o7TKP9ln2Dr6ze6Na/giphy.gif" width="150"> 
-  <img src="https://media.giphy.com/media/l0MYGB1k2a6JGc8rm/giphy.gif" width="150"> 
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="160">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="160">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="160">
 </p>
-
 ---
 
 ⭐ **If you like my work, consider giving a star!** ⭐  
