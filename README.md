@@ -16,17 +16,32 @@
 
 ---
 
-### 🏆 **About Me**
-- 🔭 **Currently Working On:**  
-  - 🚀 [Vidhya AI](https://vidhyaai.com) – Advanced AI-powered study assistant  
-  - 🌾 Farmers Market App – A digital platform for Indian farmers  
-  - 📖 Lotti PYQs – Smart PYQs web app  
-- 🏆 **Achievements:**  
-  - **Google STEP Intern 2025** 🎖  
-  - **Technical Team @ Google Developers Group** 🏗  
-  - **iOS App Developer @ Apple** 🍏  
-- 🎯 **Goal**: **Make $1M by Dec 25, 2025** 💰 with a billion-dollar startup.  
-- 🎓 **B.Tech AI & ML @ GLA University (2024-2028)**  
+### 🚀 **About Me**
+<p align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="180">
+</p>
+
+- 🎓 **B.Tech in AI & ML** @ GLA University *(2024 - 2028)*  
+- 👨‍💻 **Technical Expertise:** **AI, Automation, Full-Stack, Android/iOS, System Architecture**  
+- 🚀 **Experience:**  
+  - **Technical Team @ Google Developers Group**
+  - **iOS Developer** *(Building scalable mobile applications)*  
+- 💡 **Core Skills:** **LLMs, Symbolic AI, Web3, Scalable Systems, API Development**  
+- 🔍 **Interests:** **AI-driven automation, Large-Scale Web Systems, Open-Source Development**  
+
+---
+
+### **⚡ Tech Expertise**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,python,tensorflow,firebase,react,nextjs,tailwind,linux,github,azure,aws,typescript,nodejs" />
+</p>
+
+---
+
+### **📊 GitHub Stats & Contributions**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LittleCodr&count_private=true&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=1800" width="48%">
+  <img src="https://streak-stats.demolab.com?user=LittleCodr&theme=radical&hide_border
 
 ---
 
