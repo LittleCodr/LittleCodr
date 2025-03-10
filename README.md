@@ -37,8 +37,6 @@
 </p>
 
 ---
-
-### **📊 GitHub Stats & Contributions**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LittleCodr&count_private=true&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=1800" width="48%">
   <img src="https://streak-stats.demolab.com?user=LittleCodr&theme=radical&hide_border
@@ -52,7 +50,7 @@
 
 ---
 
-### 📊 **GitHub Stats & Contributions**
+
 ### 📊 **GitHub Stats & Contributions**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LittleCodr&count_private=true&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=1800" width="48%">
