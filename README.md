@@ -42,21 +42,6 @@
   <img src="https://streak-stats.demolab.com?user=LittleCodr&theme=radical&hide_border
 
 ---
-
-## ⚡ **Tech Expertise**
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin,java,python,typescript,react,nextjs,nodejs,linux,github,aws,azure" /></td>
-  </tr>
-</table>
-
-## 🚀 **Tech Stack Visuals**
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin,java,python,react,nextjs,tailwind,firebase,mongodb,postgresql" /></td>
-  </tr>
-</table>
-
 ---
 
 
