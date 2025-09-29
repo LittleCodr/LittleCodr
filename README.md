@@ -29,18 +29,7 @@
   
   ---
   
-  ### 🏆 Featured Projects
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <a href="https://vidhyaai.com" style="flex: 1; min-width: 280px; max-width: 45%;">
-      <img src="https://img.shields.io/badge/🤖 Vidhya AI-AI Study Assistant-ff6b6b?style=for-the-badge" width="100%">
-    </a>
-    <a href="https://preplibrary.xyz/" style="flex: 1; min-width: 280px; max-width: 45%;">
-      <img src="https://img.shields.io/badge/📚 Prep Library-Study Resources-4ecdc4?style=for-the-badge" width="100%">
-    </a>
-  </div>
-  
-  ---
+
   
   ### 📫 Let's Connect
   
@@ -68,7 +57,7 @@
     <h3>🚀 Quick Facts</h3>
     <ul style="text-align: left; max-width: 600px; margin: 0 auto;">
       <li>👨‍💻 Microsoft Learn Ambassador</li>
-      <li>📱 Experienced in iOS (Swift) & Android (Kotlin) Development</li>
+      <li>📱 Experienced in iOS (Swift) & Android (Java) Development</li>
       <li>🌐 Full Stack Development with React & Node.js</li>
       <li>💪 Strong problem-solving skills with DSA</li>
       <li>🚀 Building scalable and performant applications</li>
