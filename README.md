@@ -8,14 +8,14 @@
     </a>
   </p>
   
-  <p>🚀 iOS & Android App Developer | Fulll Stack Dev </p>
+  <p>🚀 iOS & Android Developer | Full Stack Engineer | Microsoft Learn Ambassador</p>
   
   ---
   
   ### 🔧 Technologies & Tools
   
   <p>
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,nextjs,tailwind,aws,docker,kubernetes,git,github,figma&perline=7" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,swift,kotlin,react,typescript,nodejs,nextjs,aws,git,github,docker,firebase,xcode,androidstudio&perline=7" alt="Tech Stack" />
   </p>
   
   ---
@@ -31,40 +31,51 @@
   
   ### 🏆 Featured Projects
   
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://vidhyaai.com">
-          <img src="https://img.shields.io/badge/🤖 Vidhya AI-AI Study Assistant-ff6b6b?style=flat-square" width="100%">
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://preplibrary.xyz/">
-          <img src="https://img.shields.io/badge/📚 Prep Library-Study Resources-4ecdc4?style=flat-square" width="100%">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <a href="https://vidhyaai.com" style="flex: 1; min-width: 280px; max-width: 45%;">
+      <img src="https://img.shields.io/badge/🤖 Vidhya AI-AI Study Assistant-ff6b6b?style=for-the-badge" width="100%">
+    </a>
+    <a href="https://preplibrary.xyz/" style="flex: 1; min-width: 280px; max-width: 45%;">
+      <img src="https://img.shields.io/badge/📚 Prep Library-Study Resources-4ecdc4?style=for-the-badge" width="100%">
+    </a>
+  </div>
   
   ---
   
   ### 📫 Let's Connect
   
-  <p>
-    <a href="https://linkedin.com/in/yourusername">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="https://linkedin.com/in/mayankagrawal1406">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/yourusername">
+    <a href="https://twitter.com/mindflayer69">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
-    <a href="mailto:hello@mayank1406.pro">
+    <a href="https://leetcode.com/u/mayankagra_wal/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+    </a>
+    <a href="https://github.com/LittleCodr">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="mailto:littlecodr@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-  </p>
+  </div>
   
   ---
   
-  <p>
+  <div style="margin-top: 20px;">
+    <h3>🚀 Quick Facts</h3>
+    <ul style="text-align: left; max-width: 600px; margin: 0 auto;">
+      <li>👨‍💻 Microsoft Learn Ambassador</li>
+      <li>📱 Experienced in iOS (Swift) & Android (Kotlin) Development</li>
+      <li>🌐 Full Stack Development with React & Node.js</li>
+      <li>💪 Strong problem-solving skills with DSA</li>
+      <li>🚀 Building scalable and performant applications</li>
+    </ul>
+  </div>
+  
+  <p style="margin-top: 20px;">
     <img src="https://komarev.com/ghpvc/?username=LittleCodr&style=flat-square" alt="Profile Views">
   </p>
   
