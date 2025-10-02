@@ -19,50 +19,25 @@
   </p>
   
   ---
-### 🚀 GitHub Stats & Activity
+<b>Github Stats</b>
+</h3>
+<div align='center'>
+    <a href='https://github.com/LittleCodr'>
+        <img width="49.5%" src='https://github-readme-stats.vercel.app/api?username=LittleCodr&show_icons=true&theme=github_dark&hide_border=true'>
+        <img width="49.5%" src='https://streak-stats.demolab.com/?user=LittleCodr&theme=github-dark-blue&hide_border=true'>
+    </a>
+</div>
+<br>
+<div align='center'>
+    <a href='https://github.com/LittleCodr'>
+        <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LittleCodr&show_icons=true&layout=compact&theme=github_dark&hide_border=true">
+        <img width="49.5%" src='https://github-readme-activity-graph.vercel.app/graph?username=LittleCodr&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9'>
+    </a>
+</div>
+<br>
+<h3 align="center">
 
-<p align="center">
-  <!-- GitHub Contribution Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=LittleCodr&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_rank=false&hide=issues" 
-    alt="GitHub Stats" 
-    width="48%" 
-  />
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleCodr&layout=compact&langs_count=8&theme=react" 
-    alt="Top Languages" 
-    width="48%" 
-  />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=LittleCodr&theme=react&hide_border=false" 
-    alt="GitHub Streak" 
-    width="48%" 
-  />
-
-  <!-- WakaTime Coding Activity -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=LittleCodr&theme=react&hide_border=false" 
-    alt="WakaTime Stats" 
-    width="48%" 
-  />
-</p>
-
----
-
-### 🌌 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LittleCodr&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
-  ---
-  
 
   
   ### 📫 Let's Connect
