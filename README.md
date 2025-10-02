@@ -19,13 +19,36 @@
   </p>
   
   ---
+ ### 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=LittleCodr&show_icons=true&theme=blueberry&count_private=true&hide_title=false&include_all_commits=true&line_height=30" 
+    alt="GitHub Stats" 
+    width="48%" 
+  />
   
-  ### 📊 GitHub Stats
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=LittleCodr&show_icons=true&theme=radical" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleCodr&layout=compact&theme=radical" width="48%" />
-  </p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleCodr&layout=compact&theme=blueberry&langs_count=8" 
+    alt="Top Languages" 
+    width="48%" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=LittleCodr&theme=blueberry&hide_border=false" 
+    alt="GitHub Streak" 
+    width="48%" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=LittleCodr&theme=blueberry" 
+    alt="WakaTime Stats" 
+    width="48%" 
+  />
+</p>
+
   
   ---
   
