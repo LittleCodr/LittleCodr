@@ -1,22 +1,22 @@
 <div align="center">
 
-<!-- TITLE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=40&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=Mayank+Agrawal;The+Devil+In+Disguise;Code+Is+My+Sin;Perfection+Is+My+Religion" />
+<!-- ANIMATED TITLE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=42&duration=2800&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=Mayank+Agrawal;The+Devil+Behind+The+Code;I+Don't+Write+Code+I+Forge+It;Welcome+To+My+Domain" />
 
 <br><br>
 
 <!-- PORTFOLIO BADGE -->
 <a href="https://mayank1406.pro">
-  <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENTER%20THE%20REALM-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <br><br>
 
-<!-- DARK QUOTE -->
-<p style="color:#b30000;font-size:17px;font-family:serif;max-width:700px;">
-I build systems that don’t break.  
-I fix problems others run from.  
-I write code the way devils sign deals — clean, sharp, irreversible.
+<!-- FULL-SAVAGE LINE -->
+<p style="color:#ff0000;font-size:18px;font-family:serif;max-width:700px;">
+I made a portfolio site for a reason.  
+If you want the real story, the real projects, the real work — go there.  
+I don’t repeat myself here.
 </p>
 
 ---
@@ -36,6 +36,11 @@ src="https://github-readme-stats.vercel.app/api?username=LittleCodr&show_icons=t
 src="https://streak-stats.demolab.com?user=LittleCodr&theme=dark&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
 
 </div>
+
+---
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
@@ -63,12 +68,12 @@ src="https://streak-stats.demolab.com?user=LittleCodr&theme=dark&hide_border=tru
 ---
 
 ## 🔥 Who I Am
-<ul style="max-width:600px;margin:auto;text-align:left;color:#b30000;font-size:15px;">
-<li>iOS & Android engineer with no tolerance for sloppy architecture</li>
-<li>Full Stack dev with React + Node who keeps things fast and minimal</li>
-<li>Microsoft Learn Ambassador — but darker</li>
-<li>DSA when needed, not for streaks and flex</li>
-<li>I build products engineered to outlive their creators</li>
+<ul style="max-width:600px;margin:auto;text-align:left;color:#b30000;font-size:16px;">
+<li>iOS & Android engineer with a perfectionist streak darker than your sleep schedule</li>
+<li>Full Stack with React + Node — clean, lethal, scalable</li>
+<li>Microsoft Learn Ambassador, but the devilish version</li>
+<li>I use DSA when necessary, not to show off streaks</li>
+<li>I build systems engineered to survive chaos and outlast their creators</li>
 </ul>
 
 <br>
@@ -77,8 +82,9 @@ src="https://streak-stats.demolab.com?user=LittleCodr&theme=dark&hide_border=tru
 
 <br>
 
-<a href="https://mayank1406.pro" style="color:#ff0000;font-size:16px;">
-Portfolio: mayank1406.pro
+<a href="https://mayank1406.pro" style="color:#ff0000;font-size:17px;">
+Portfolio: mayank1406.pro  
+Enter if you dare.
 </a>
 
 </div>
