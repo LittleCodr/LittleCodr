@@ -12,7 +12,10 @@
   </a>
 </p>
 
-
+<!-- 4) Lucifer line (neon underline via animated SVG) -->
+<p style="font-family:serif; font-size:16px; color:#b30000; max-width:780px; margin:10px auto;">
+  <strong>Save time. Just open my portfolio.</strong>
+</p>
 
 <!-- 6) Short pitch + tech icons -->
 <p style="color:#c43a3a; max-width:760px; margin:8px auto; font-size:14px;">
