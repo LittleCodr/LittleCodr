@@ -1,40 +1,11 @@
 <div align="center">
-
-<!-- 1) GLITCH-TYPING TITLE (animated SVG + typing fallback) -->
+<!-- GLITCH TITLE -->
 <img alt="title" src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=44&duration=2500&pause=700&color=FF2B2B&center=true&vCenter=true&width=920&lines=Mayank+Agrawal;The+Devil+In+Disguise" />
 
-<!-- 2) DEVIL WINGS (inline SVG data URI) - placed beside the header visually -->
 <br/>
-<img alt="devil-wings" width="420" src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 300'>
-  <defs>
-    <linearGradient id='g' x1='0' x2='1'>
-      <stop offset='0' stop-color='%23000000'/>
-      <stop offset='1' stop-color='%23a00000'/>
-    </linearGradient>
-    <filter id='f' x='-50%' y='-50%' width='200%' height='200%'>
-      <feGaussianBlur stdDeviation='5' result='b'/>
-      <feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge>
-    </filter>
-  </defs>
 
-  <!-- Left wing -->
-  <g transform='translate(400,150) scale(0.9)'>
-    <path d='M0 0 C -120 -40 -200 -120 -280 -120 C -260 -60 -180 20 -80 20 C -40 20 0 0 0 0 Z'
-          fill='url(%23g)' opacity='0.98' filter='url(%23f)'/>
-    <path d='M-40 -10 C -120 -30 -160 -80 -220 -80' stroke='%23ff2b2b' stroke-width='3' fill='none' opacity='0.22'/>
-  </g>
-
-  <!-- Right wing (mirrored) -->
-  <g transform='translate(760,150) scale(0.9)'>
-    <path d='M0 0 C 120 -40 200 -120 280 -120 C 260 -60 180 20 80 20 C 40 20 0 0 0 0 Z'
-          fill='url(%23g)' opacity='0.98' filter='url(%23f)'/>
-    <path d='M40 -10 C 120 -30 160 -80 220 -80' stroke='%23ff2b2b' stroke-width='3' fill='none' opacity='0.22'/>
-  </g>
-
-  <!-- faint center flare -->
-  <ellipse cx='600' cy='180' rx='200' ry='18' fill='%230a0000' opacity='0.6'/>
-</svg>" />
+<!-- WORKING DEVIL WINGS (safe version) -->
+<img alt="devil-wings" width="420" src="https://raw.githubusercontent.com/itsmars0/devil-assets/main/wings-dark-red.svg" />
 
 <!-- 3) Portfolio Badge (dominant red) -->
 <p style="margin-top:8px;">
@@ -108,6 +79,10 @@
   <a href="https://github.com/LittleCodr">
     <img src="https://img.shields.io/badge/GitHub-120000?style=for-the-badge&logo=github&logoColor=gold" alt="GitHub" />
   </a>
+  <a href="https://leetcode.com/u/mayankagra_wal/">
+  <img src="https://img.shields.io/badge/LeetCode-7a0000?style=for-the-badge&logo=leetcode&logoColor=gold" />
+</a>
+
   <a href="mailto:littlecodr@gmail.com">
     <img src="https://img.shields.io/badge/Email-5a0000?style=for-the-badge&logo=gmail&logoColor=gold" alt="Email" />
   </a>
