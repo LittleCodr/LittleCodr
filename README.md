@@ -8,7 +8,7 @@
 <!-- 3) Portfolio Badge (dominant red) -->
 <p style="margin-top:8px;">
   <a href="https://mayank1406.pro" target="_blank">
-    <img src="https://img.shields.io/badge/ENTER%20THE%20DOMAIN-mayank1406.pro-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/ENTER%20THE%20PORTFOLIO-mayank1406.pro-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
