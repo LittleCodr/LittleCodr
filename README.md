@@ -1,75 +1,69 @@
 <div align="center">
 
 # 🔥 Mayank Agrawal  
-### the one who writes code like a devil signs deals
+### the developer your bugs fear
 
-<img src="https://img.shields.io/badge/Enter%20the%20Underworld-mayank1406.pro-B30000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://mayank1406.pro">
+  <img src="https://img.shields.io/badge/Enter%20The%20Domain-mayank1406.pro-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
-<p>iOS & Android Developer | Full Stack Engineer | Microsoft Learn Ambassador</p>
+<p style="color:#b30000;">
+iOS & Android • Full Stack • Microsoft Learn Ambassador  
+</p>
 
 ---
 
-## 🩸 Infernal Arsenal
-
+## 🩸 Tech That Bends To My Will
 <img src="https://skillicons.dev/icons?i=java,swift,kotlin,react,typescript,nodejs,nextjs,aws,git,github,docker,firebase,xcode,androidstudio&perline=7" />
 
 ---
 
-## ⚔️ GitHub Stats of the Fallen
+## ⚔️ GitHub Stats From The Abyss
 
 <div align="center">
-  <a href="https://github.com/LittleCodr">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LittleCodr&show_icons=true&theme=red&hide_border=true&title_color=ff0000&icon_color=ff0000" />
-    <img width="49.5%" src="https://streak-stats.demolab.com/?user=LittleCodr&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
-  </a>
-</div>
+
+<img width="49.5%" 
+src="https://github-readme-stats.vercel.app/api?username=LittleCodr&show_icons=true&hide_border=true&theme=dark&title_color=ff0000&text_color=b30000&icon_color=ff0000&bg_color=000000" />
+
+<img width="49.5%" 
+src="https://streak-stats.demolab.com?user=LittleCodr&theme=dark&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/LittleCodr">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LittleCodr&layout=compact&theme=red&hide_border=true&title_color=ff0000" />
-    <img width="49.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=LittleCodr&hide_title=true&hide_border=true&line=ff0000&point=3d0000&area_color=0d0000&area=true&bg_color=0b0000&color=ff4d4d" />
-  </a>
+<img width="49.5%" 
+src="https://github-readme-stats.vercel.app/api/top-langs?username=LittleCodr&layout=compact&hide_border=true&theme=dark&title_color=ff0000&text_color=b30000&bg_color=000000" />
+
+<img width="49.5%" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=LittleCodr&hide_border=true&bg_color=000000&color=ff4d4d&line=800000&point=ff0000&area=true&area_color=0a0000" />
+
 </div>
 
 ---
 
-## 👁 Connect if you dare
+## 👁 Summon Me
+<div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;">
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://linkedin.com/in/mayankagrawal1406">
-    <img src="https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/mindflayer_69">
-    <img src="https://img.shields.io/badge/Twitter-b30000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/mayankagra_wal/">
-    <img src="https://img.shields.io/badge/LeetCode-990000?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://github.com/LittleCodr">
-    <img src="https://img.shields.io/badge/GitHub-330000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:littlecodr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7a0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter-660000?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-4d0000?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-300000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-5c0000?style=for-the-badge&logo=gmail&logoColor=white" />
+
 </div>
 
 ---
 
-## 🔥 Quick Facts
-<ul style="text-align: left; max-width: 600px; margin: 0 auto;">
-  <li>Microsoft Learn Ambassador</li>
-  <li>iOS (Swift) and Android (Java) developer who doesn't touch half-baked code</li>
-  <li>Full Stack with React and Node</li>
-  <li>DSA enjoyer but not a LeetCode slave</li>
-  <li>Builds fast, scalable, and unapologetically clean systems</li>
+## 🔥 Facts
+<ul style="max-width:600px;margin:auto;text-align:left;color:#b30000;">
+<li>Microsoft Learn Ambassador</li>
+<li>iOS + Android developer who doesn’t tolerate sloppy logic</li>
+<li>Full Stack with React and Node</li>
+<li>DSA when needed, not for vanity streaks</li>
+<li>Writes systems designed to survive chaos</li>
 </ul>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=LittleCodr&color=ff0000&style=flat-square" />
 
-<img src="https://komarev.com/ghpvc/?username=LittleCodr&style=flat-square&color=ff0000" />
-
-<p>Portfolio: <a href="https://mayank1406.pro" target="_blank">mayank1406.pro</a></p>
+<p>Portfolio: <a href="https://mayank1406.pro" style="color:#ff0000;">mayank1406.pro</a></p>
 
 </div>
