@@ -3,7 +3,6 @@
 <img alt="title" src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=44&duration=2500&pause=700&color=FF2B2B&center=true&vCenter=true&width=920&lines=Mayank+Agrawal;The+Devil+In+Disguise" />
 
 <br/>
-<img alt="devil-wings" width="420" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 300'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%23000000'/><stop offset='1' stop-color='%23a00000'/></linearGradient><filter id='f' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='5' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs><g transform='translate(400,150) scale(0.9)'><path d='M0 0 C -120 -40 -200 -120 -280 -120 C -260 -60 -180 20 -80 20 C -40 20 0 0 0 0 Z' fill='url(%23g)' opacity='0.98' filter='url(%23f)'/><path d='M-40 -10 C -120 -30 -160 -80 -220 -80' stroke='%23ff2b2b' stroke-width='3' fill='none' opacity='0.22'/></g><g transform='translate(760,150) scale(0.9)'><path d='M0 0 C 120 -40 200 -120 280 -120 C 260 -60 180 20 80 20 C 40 20 0 0 0 0 Z' fill='url(%23g)' opacity='0.98' filter='url(%23f)'/><path d='M40 -10 C 120 -30 160 -80 220 -80' stroke='%23ff2b2b' stroke-width='3' fill='none' opacity='0.22'/></g><ellipse cx='600' cy='180' rx='200' ry='18' fill='%230a0000' opacity='0.6'/></svg>" />
 
 
 <!-- 3) Portfolio Badge (dominant red) -->
@@ -13,41 +12,7 @@
   </a>
 </p>
 
-<!-- 4) Lucifer line (neon underline via animated SVG) -->
-<p style="font-family:serif; font-size:16px; color:#b30000; max-width:780px; margin:10px auto;">
-  <strong>Save time. Just open my portfolio.</strong>
-</p>
 
-<!-- 5) Animated neon underline (SVG data) -->
-<img alt="neon-underline" width="520" src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' width='520' height='12' viewBox='0 0 520 12'>
-  <defs>
-    <linearGradient id='ng' x1='0' x2='1'>
-      <stop offset='0' stop-color='%23ff1a1a' stop-opacity='0.95'/>
-      <stop offset='0.5' stop-color='%23ff6b6b' stop-opacity='0.9'/>
-      <stop offset='1' stop-color='%23ff1a1a' stop-opacity='0.95'/>
-    </linearGradient>
-    <filter id='g1' x='-50%' y='-50%' width='200%' height='200%'>
-      <feGaussianBlur stdDeviation='3' result='blur'/>
-      <feMerge><feMergeNode in='blur'/><feMergeNode in='SourceGraphic'/></feMerge>
-    </filter>
-  </defs>
-
-  <rect x='6' y='3' width='508' height='6' rx='3' fill='%23000000' />
-  <rect x='6' y='3' width='508' height='6' rx='3' fill='url(%23ng)' filter='url(%23g1)'>
-    <animate attributeName='x' values='-520;520' dur='2.8s' repeatCount='indefinite'/>
-  </rect>
-
-  <!-- small glitch pulses -->
-  <rect x='100' y='1' width='8' height='10' fill='%23FFAAAA' opacity='0.12'>
-    <animate attributeName='opacity' values='0.12;0.7;0.12' dur='1.2s' repeatCount='indefinite' begin='0.2s'/>
-  </rect>
-  <rect x='320' y='1' width='6' height='10' fill='%23FF8888' opacity='0.08'>
-    <animate attributeName='opacity' values='0.08;0.6;0.08' dur='1.6s' repeatCount='indefinite' begin='0.6s'/>
-  </rect>
-</svg>" />
-
-<br/>
 
 <!-- 6) Short pitch + tech icons -->
 <p style="color:#c43a3a; max-width:760px; margin:8px auto; font-size:14px;">
