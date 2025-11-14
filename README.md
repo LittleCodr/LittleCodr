@@ -1,178 +1,132 @@
-<!-- ================== README: Lucifer / Devil Theme ================== -->
-<div align="center" style="background:#000000;padding:32px;border-radius:16px;">
+<div align="center">
 
-<!-- Custom SVG Banner: Name + Animated Devil Wings -->
-<!-- SVG is self-contained; wings animate, banner uses black-gold gradient -->
-<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mayank Agrawal banner">
+<!-- 1) GLITCH-TYPING TITLE (animated SVG + typing fallback) -->
+<img alt="title" src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=44&duration=2500&pause=700&color=FF2B2B&center=true&vCenter=true&width=920&lines=Mayank+Agrawal;The+Devil+In+Disguise" />
+
+<!-- 2) DEVIL WINGS (inline SVG data URI) - placed beside the header visually -->
+<br/>
+<img alt="devil-wings" width="420" src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 300'>
   <defs>
-    <linearGradient id="bggrad" x1="0" x2="1">
-      <stop offset="0%" stop-color="#040404"/>
-      <stop offset="100%" stop-color="#0b0000"/>
+    <linearGradient id='g' x1='0' x2='1'>
+      <stop offset='0' stop-color='%23000000'/>
+      <stop offset='1' stop-color='%23a00000'/>
     </linearGradient>
-
-    <linearGradient id="gold" x1="0" x2="1">
-      <stop offset="0%" stop-color="#b8860b"/>
-      <stop offset="100%" stop-color="#ffd700"/>
-    </linearGradient>
-
-    <linearGradient id="redglow" x1="0" x2="1">
-      <stop offset="0%" stop-color="#ff1a1a"/>
-      <stop offset="100%" stop-color="#7a0000"/>
-    </linearGradient>
-
-    <!-- subtle noise/glitch filter -->
-    <filter id="glitch">
-      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="noise"/>
-      <feDisplacementMap in="SourceGraphic" in2="noise" scale="6" xChannelSelector="R" yChannelSelector="G"/>
+    <filter id='f' x='-50%' y='-50%' width='200%' height='200%'>
+      <feGaussianBlur stdDeviation='5' result='b'/>
+      <feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge>
     </filter>
-
-    <!-- wing path to reuse -->
-    <path id="wingPath" d="M0 100 C40 20, 120 10, 200 80 C280 150, 360 160, 420 120 C480 80, 520 30, 580 20 L640 40 L560 120 C480 200, 300 210, 200 160 C100 110, 20 120, 0 100 Z"/>
   </defs>
 
-  <!-- background -->
-  <rect width="100%" height="100%" fill="url(#bggrad)"/>
+  <!-- Left wing -->
+  <g transform='translate(400,150) scale(0.9)'>
+    <path d='M0 0 C -120 -40 -200 -120 -280 -120 C -260 -60 -180 20 -80 20 C -40 20 0 0 0 0 Z'
+          fill='url(%23g)' opacity='0.98' filter='url(%23f)'/>
+    <path d='M-40 -10 C -120 -30 -160 -80 -220 -80' stroke='%23ff2b2b' stroke-width='3' fill='none' opacity='0.22'/>
+  </g>
 
-  <!-- gradient border (animated stroke-dashoffset effect) -->
-  <rect x="8" y="8" width="1184" height="204" rx="12" ry="12" fill="none" stroke="url(#redglow)" stroke-width="4"
-        stroke-dasharray="12 8">
-    <animate attributeName="stroke-dashoffset" from="0" to="60" dur="6s" repeatCount="indefinite" />
+  <!-- Right wing (mirrored) -->
+  <g transform='translate(760,150) scale(0.9)'>
+    <path d='M0 0 C 120 -40 200 -120 280 -120 C 260 -60 180 20 80 20 C 40 20 0 0 0 0 Z'
+          fill='url(%23g)' opacity='0.98' filter='url(%23f)'/>
+    <path d='M40 -10 C 120 -30 160 -80 220 -80' stroke='%23ff2b2b' stroke-width='3' fill='none' opacity='0.22'/>
+  </g>
+
+  <!-- faint center flare -->
+  <ellipse cx='600' cy='180' rx='200' ry='18' fill='%230a0000' opacity='0.6'/>
+</svg>" />
+
+<!-- 3) Portfolio Badge (dominant red) -->
+<p style="margin-top:8px;">
+  <a href="https://mayank1406.pro" target="_blank">
+    <img src="https://img.shields.io/badge/ENTER%20THE%20DOMAIN-mayank1406.pro-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<!-- 4) Lucifer line (neon underline via animated SVG) -->
+<p style="font-family:serif; font-size:16px; color:#b30000; max-width:780px; margin:10px auto;">
+  <strong>Save time. Just open my portfolio.</strong>
+</p>
+
+<!-- 5) Animated neon underline (SVG data) -->
+<img alt="neon-underline" width="520" src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='520' height='12' viewBox='0 0 520 12'>
+  <defs>
+    <linearGradient id='ng' x1='0' x2='1'>
+      <stop offset='0' stop-color='%23ff1a1a' stop-opacity='0.95'/>
+      <stop offset='0.5' stop-color='%23ff6b6b' stop-opacity='0.9'/>
+      <stop offset='1' stop-color='%23ff1a1a' stop-opacity='0.95'/>
+    </linearGradient>
+    <filter id='g1' x='-50%' y='-50%' width='200%' height='200%'>
+      <feGaussianBlur stdDeviation='3' result='blur'/>
+      <feMerge><feMergeNode in='blur'/><feMergeNode in='SourceGraphic'/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x='6' y='3' width='508' height='6' rx='3' fill='%23000000' />
+  <rect x='6' y='3' width='508' height='6' rx='3' fill='url(%23ng)' filter='url(%23g1)'>
+    <animate attributeName='x' values='-520;520' dur='2.8s' repeatCount='indefinite'/>
   </rect>
 
-  <!-- left wing (mirrored) -->
-  <g transform="translate(120,40) scale(0.9)" style="mix-blend-mode:screen;">
-    <use xlink:href="#wingPath" fill="transparent" stroke="#2b0000" stroke-width="4" opacity="0.95">
-      <animateTransform attributeName="transform" type="translate" dur="4s" values="0 0; -6 2; 0 0" repeatCount="indefinite"/>
-    </use>
-    <use xlink:href="#wingPath" fill="url(#redglow)" opacity="0.12">
-      <animate attributeName="opacity" dur="3s" values="0.08;0.18;0.08" repeatCount="indefinite"/>
-    </use>
-  </g>
+  <!-- small glitch pulses -->
+  <rect x='100' y='1' width='8' height='10' fill='%23FFAAAA' opacity='0.12'>
+    <animate attributeName='opacity' values='0.12;0.7;0.12' dur='1.2s' repeatCount='indefinite' begin='0.2s'/>
+  </rect>
+  <rect x='320' y='1' width='6' height='10' fill='%23FF8888' opacity='0.08'>
+    <animate attributeName='opacity' values='0.08;0.6;0.08' dur='1.6s' repeatCount='indefinite' begin='0.6s'/>
+  </rect>
+</svg>" />
 
-  <!-- right wing (mirrored) -->
-  <g transform="translate(860,40) scale(-0.9,0.9)" style="mix-blend-mode:screen;">
-    <use xlink:href="#wingPath" fill="transparent" stroke="#2b0000" stroke-width="4" opacity="0.95">
-      <animateTransform attributeName="transform" type="translate" dur="4s" values="0 0; 6 2; 0 0" repeatCount="indefinite"/>
-    </use>
-    <use xlink:href="#wingPath" fill="url(#redglow)" opacity="0.12">
-      <animate attributeName="opacity" dur="3s" values="0.08;0.18;0.08" repeatCount="indefinite"/>
-    </use>
-  </g>
+<br/>
 
-  <!-- main name -->
-  <g transform="translate(600,120)" text-anchor="middle" font-family="Cinzel, Georgia, serif">
-    <!-- glitch clones -->
-    <text x="0" y="4" font-size="46" font-weight="700" fill="#ffffff" opacity="0.06" style="filter:url(#glitch);">
-      Mayank Agrawal
-    </text>
-    <text x="-4" y="0" font-size="52" font-weight="800" fill="#ff0000" opacity="0.18">
-      Mayank Agrawal
-      <animate attributeName="opacity" values="0.12;0.2;0.12" dur="2.5s" repeatCount="indefinite"/>
-    </text>
-    <text x="0" y="0" font-size="56" font-weight="900" fill="url(#gold)">
-      Mayank Agrawal
-    </text>
-
-    <!-- neon underline (animated) -->
-    <rect x="-220" y="18" width="440" height="6" rx="3" fill="none" stroke="#ff2b2b" stroke-width="3" opacity="0.9">
-      <animate attributeName="x" dur="6s" values="-220; -110; -220" repeatCount="indefinite"/>
-      <animate attributeName="stroke-opacity" dur="3s" values="0.6;1;0.6" repeatCount="indefinite"/>
-    </rect>
-  </g>
-</svg>
-
-<!-- Devil tagline -->
-<p style="color:#ffaaaa;margin-top:12px;font-size:15px;">
-  Save time. <strong style="color:#ff4d4d">Just open my portfolio.</strong>
+<!-- 6) Short pitch + tech icons -->
+<p style="color:#c43a3a; max-width:760px; margin:8px auto; font-size:14px;">
+  I ship products. I look for problems and eradicate them. If you want design, speed and clean infra — start with the portfolio.
 </p>
 
-<!-- Floating SVG flames (decorative, small) -->
-<div style="margin-top:10px;">
-  <!-- flame cluster: multiple tiny animated SVGs -->
-  <svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-    <defs>
-      <linearGradient id="flameGrad" x1="0" x2="1">
-        <stop offset="0%" stop-color="#ff9a00"/>
-        <stop offset="60%" stop-color="#ff1a1a"/>
-        <stop offset="100%" stop-color="#7a0000"/>
-      </linearGradient>
-    </defs>
-
-    <!-- flame 1 -->
-    <g transform="translate(30,50)">
-      <path d="M0 0 C8 -18, 18 -28, 28 -20 C38 -12, 44 -30, 28 -40 C12 -50, -10 -40, 0 0 Z" fill="url(#flameGrad)" opacity="0.95">
-        <animateTransform attributeName="transform" type="translate" dur="3.2s" values="0 0; 0 -6; 0 0" repeatCount="indefinite"/>
-        <animate attributeName="opacity" dur="2.6s" values="0.85;1;0.85" repeatCount="indefinite"/>
-      </path>
-    </g>
-
-    <!-- flame 2 -->
-    <g transform="translate(90,56)">
-      <path d="M0 0 C8 -22, 18 -34, 28 -18 C38 -2, 44 -28, 28 -38 C12 -48, -6 -34, 0 0 Z" fill="url(#flameGrad)" opacity="0.88">
-        <animateTransform attributeName="transform" type="translate" dur="3.6s" values="0 0; 0 -8; 0 0" repeatCount="indefinite"/>
-        <animate attributeName="opacity" dur="3.0s" values="0.7;0.98;0.7" repeatCount="indefinite"/>
-      </path>
-    </g>
-
-    <!-- flame 3 -->
-    <g transform="translate(200,54)">
-      <path d="M0 0 C10 -20, 24 -36, 30 -22 C36 -8, 46 -34, 30 -44 C14 -54, -4 -30, 0 0 Z" fill="url(#flameGrad)" opacity="0.9">
-        <animateTransform attributeName="transform" type="translate" dur="4.2s" values="0 0; 0 -10; 0 0" repeatCount="indefinite"/>
-        <animate attributeName="opacity" dur="3.4s" values="0.75;1;0.75" repeatCount="indefinite"/>
-      </path>
-    </g>
-
-    <!-- subtle drifting -->
-    <animateTransform attributeName="transform" type="translate" dur="8s" values="0 0; 6 0; 0 0" repeatCount="indefinite"/>
-  </svg>
-</div>
-
-<!-- short description -->
-<p style="color:#caa7a7;max-width:780px;margin:12px auto 22px;font-size:14.5px;">
-  iOS & Android engineer • Full-stack craftsman • Microsoft Learn Ambassador  
-  <span style="display:block;color:#ff8b8b;margin-top:8px;">I build fast, scalable systems and don't apologize for clean design.</span>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,swift,kotlin,react,typescript,nodejs,nextjs,aws,git,github,docker,firebase,xcode,androidstudio&perline=7" alt="techstack" />
 </p>
 
-<!-- buttons / badges -->
-<div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-bottom:16px;">
-  <a href="https://mayank1406.pro" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/PORTFOLIO-%20mayank1406.pro-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+<!-- 7) Minimal Stats Panel - single card + streak -->
+<div align="center" style="margin-top:12px;">
+  <!-- main stats (dark theme + custom colors) -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LittleCodr&show_icons=true&hide_border=true&theme=dark&title_color=ff2b2b&text_color=b30000&icon_color=ff2b2b&bg_color=000000" alt="github-stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=LittleCodr&theme=dark&hide_border=true&background=000000&ring=ff2b2b&fire=ff2b2b&currStreakLabel=ff2b2b" alt="streak" />
+</div>
+
+---
+
+<!-- 8) Contact badges (black-gold fallen-angel palette) -->
+<div style="display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin-top:18px;">
+  <a href="https://linkedin.com/in/mayankagrawal1406">
+    <img src="https://img.shields.io/badge/LinkedIn-871818?style=for-the-badge&logo=linkedin&logoColor=gold" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/LittleCodr" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-LittleCodr-300000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://twitter.com/mindflayer_69">
+    <img src="https://img.shields.io/badge/Twitter-6b0000?style=for-the-badge&logo=twitter&logoColor=gold" alt="Twitter" />
   </a>
-  <a href="mailto:littlecodr@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-Hit%20Me-5c0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/LittleCodr">
+    <img src="https://img.shields.io/badge/GitHub-120000?style=for-the-badge&logo=github&logoColor=gold" alt="GitHub" />
+  </a>
+  <a href="mailto:littlecodr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-5a0000?style=for-the-badge&logo=gmail&logoColor=gold" alt="Email" />
   </a>
 </div>
 
-<!-- animated border container for "Arsenal" -->
-<div style="padding:18px;border-radius:12px;background:linear-gradient(180deg,#050505, #080303);max-width:900px;margin:8px auto 28px;border:1px solid rgba(255,0,0,0.05);box-shadow:0 8px 40px rgba(0,0,0,0.7);">
-  <div style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;">
-    <div style="display:flex;align-items:center;gap:14px;">
-      <!-- small flame icon (svg) -->
-      <svg width="44" height="44" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-        <circle cx="22" cy="22" r="20" fill="#060606" stroke="#2b0000" stroke-width="2"/>
-        <path d="M22 34 C26 28, 30 22, 24 16 C20 14, 18 18, 22 12 C20 18, 12 18, 16 26 C18 30, 22 34, 22 34 Z"
-              fill="url(#flameGrad)" transform="translate(0,0)"/>
-      </svg>
-
-      <div style="text-align:left;">
-        <div style="font-weight:700;color:#ffd16a;font-size:15px;">🩸 Infernal Arsenal</div>
-        <div style="color:#c9a3a3;font-size:13px;">iOS, Android, React, Node, AWS, Docker, Clean Architecture</div>
-      </div>
-    </div>
-
-    <div style="text-align:right;">
-      <div style="font-weight:700;color:#ff6b6b;">Current Focus</div>
-      <div style="color:#c9a3a3;font-size:13px;">Startup product, scaling infra, mobile-first design</div>
-    </div>
-  </div>
+<!-- 9) Quick facts - compact, dark-gold list -->
+<div style="max-width:760px;margin:22px auto;text-align:left;">
+  <h3 style="color:#ff4d4d;margin-bottom:6px;">Quick Facts</h3>
+  <ul style="color:#b86b6b;">
+    <li>Microsoft Learn Ambassador</li>
+    <li>iOS & Android (Swift & Java)</li>
+    <li>Full Stack: React / Node / Next</li>
+    <li>Product-focused: performance, scale, simplicity</li>
+  </ul>
 </div>
 
-<!-- final footer -->
-<p style="color:#8e8e8e;font-size:13px;margin-bottom:6px;">Profile views <img src="https://komarev.com/ghpvc/?username=LittleCodr&style=flat-square" alt="views" style="vertical-align:middle;margin-left:6px;"/></p>
-<p style="color:#bdbdbd;font-size:13px;">Portfolio: <a href="https://mayank1406.pro" style="color:#ff4d4d;">mayank1406.pro</a></p>
+<!-- 10) Footer with site + subtle signature -->
+<p style="color:#7a1a1a;font-size:13px;">
+  Portfolio: <a href="https://mayank1406.pro" style="color:#ff3b3b;">mayank1406.pro</a> · Built with focus, not noise.
+</p>
 
 </div>
-<!-- ================== END README ================== -->
