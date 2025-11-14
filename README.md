@@ -7,7 +7,7 @@
 
 <!-- PORTFOLIO BADGE -->
 <a href="https://mayank1406.pro">
-  <img src="https://img.shields.io/badge/ENTER%20THE%20DOMAIN-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <br><br>
