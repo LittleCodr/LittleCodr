@@ -28,10 +28,16 @@
 
 <!-- 7) Minimal Stats Panel - single card + streak -->
 <div align="center" style="margin-top:12px;">
-  <!-- main stats (dark theme + custom colors) --><img
+  <!-- main stats (dark theme + custom colors) -->
+  <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=LittleCodr&bg_color=000000&color=ff2b2b&line=ff2b2b&point=b30000&hide_border=true"
   width="100%"
   alt="activity graph"
+/>
+<img
+  src="https://metrics.lecoq.io/LittleCodr?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=1&base.metadata=0&theme=dark"
+  width="100%"
+  alt="github metrics"
 />
 
 </div>
