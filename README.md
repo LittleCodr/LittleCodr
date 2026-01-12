@@ -28,9 +28,12 @@
 
 <!-- 7) Minimal Stats Panel - single card + streak -->
 <div align="center" style="margin-top:12px;">
-  <!-- main stats (dark theme + custom colors) -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LittleCodr&show_icons=true&hide_border=true&theme=dark&title_color=ff2b2b&text_color=b30000&icon_color=ff2b2b&bg_color=000000" alt="github-stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=LittleCodr&theme=dark&hide_border=true&background=000000&ring=ff2b2b&fire=ff2b2b&currStreakLabel=ff2b2b" alt="streak" />
+  <!-- main stats (dark theme + custom colors) --><img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=LittleCodr&bg_color=000000&color=ff2b2b&line=ff2b2b&point=b30000&hide_border=true"
+  width="100%"
+  alt="activity graph"
+/>
+
 </div>
 
 ---
