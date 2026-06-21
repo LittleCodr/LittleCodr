@@ -27,19 +27,19 @@
 </p>
 
 <!-- 7) Minimal Stats Panel - single card + streak -->
-<div align="center" style="margin-top:12px;">
-  <!-- main stats (dark theme + custom colors) -->
-  <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=LittleCodr&bg_color=000000&color=ff2b2b&line=ff2b2b&point=b30000&hide_border=true"
-  width="100%"
-  alt="activity graph"
-/>
-<img
-  src="https://metrics.lecoq.io/LittleCodr?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=1&base.metadata=0&theme=dark"
-  width="100%"
-  alt="github metrics"
-/>
 
+<div align='center'>
+	<a href='https://github.com/lirena00'>
+		<img width="49.5%" src='https://streak-stats.demolab.com/?user=LittleCodr&theme=github-dark-blue&hide_border=true'>
+	</a>
+</div>
+<br>
+<div align='center'>
+	<a href='https://github.com/lirena00'>
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LittleCodr&show_icons=true&layout=compact&theme=github_dark&hide_border=true">
+	<img width="49.5%" src='https://github-readme-activity-graph.vercel.app/graph?username=LittleCodr&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9'>
+	</a>
+</div>
 </div>
 
 ---
