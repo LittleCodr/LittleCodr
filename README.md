@@ -7,8 +7,8 @@
 
 <!-- 3) Portfolio Badge (dominant red) -->
 <p style="margin-top:8px;">
-  <a href="https://mayank1406.pro" target="_blank">
-    <img src="https://img.shields.io/badge/ENTER%20THE%20PORTFOLIO-mayank1406.pro-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  <a href="https://heymayank.in" target="_blank">
+    <img src="https://img.shields.io/badge/ENTER%20THE%20PORTFOLIO-heymayank.in-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
@@ -77,7 +77,7 @@
 
 <!-- 10) Footer with site + subtle signature -->
 <p style="color:#7a1a1a;font-size:13px;">
-  Portfolio: <a href="https://mayank1406.pro" style="color:#ff3b3b;">mayank1406.pro</a> · Built with focus, not noise.
+  Portfolio: <a href="https://heymayank.in" style="color:#ff3b3b;">heymayank.in</a> · Built with focus, not noise.
 </p>
 
 </div>
