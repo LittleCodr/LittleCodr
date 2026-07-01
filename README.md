@@ -55,7 +55,7 @@
   <a href="https://github.com/LittleCodr">
     <img src="https://img.shields.io/badge/GitHub-120000?style=for-the-badge&logo=github&logoColor=gold" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/us_0108/">
+  <a href="https://leetcode.com/u/peak_nigger/">
   <img src="https://img.shields.io/badge/LeetCode-7a0000?style=for-the-badge&logo=leetcode&logoColor=gold" />
 </a>
 
