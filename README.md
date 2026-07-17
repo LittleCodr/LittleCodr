@@ -28,12 +28,11 @@
 
 <!-- 7) Minimal Stats Panel - single card + streak -->
 
-<div align='center'>
 <div align="center">
-  <img src="https://asciify.its-apoorv.me/api/card?username=LittleCodr&custom_image=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRtAurNc_HvWOa-CAOY_OeuhcTbEOpZgE33VU8oC7Ky2IlEyTxLYN3Mzwc%26s%3D10&name=Mayank+Agrawal&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify GitHub Stats" />
+  <img src="https://asciify.its-apoorv.me/api/card?username=LittleCodr&custom_image=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRtAurNc_HvWOa-CAOY_OeuhcTbEOpZgE33VU8oC7Ky2IlEyTxLYN3Mzwc%26s%3D10&name=Mayank+Agrawal&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="GitHub Stats" />
 </div>
 
-</div>
+
 <br>
 <div align='center'>
 	<a href='https://github.com/lirena00'>
@@ -81,4 +80,7 @@
   Portfolio: <a href="https://heymayank.in" style="color:#ff3b3b;">heymayank.in</a> · Built with focus, not noise.
 </p>
 
+</div>
+<div align="center">
+  <img src="https://asciify.its-apoorv.me/api/leetcode?username=peak_nigger&font_family=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify LeetCode Stats" />
 </div>
