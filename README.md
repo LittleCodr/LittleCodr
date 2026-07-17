@@ -28,16 +28,11 @@
 
 <!-- 7) Minimal Stats Panel - single card + streak -->
 
-<div align="center">
-  <img src="https://asciify.its-apoorv.me/api/card?username=LittleCodr&custom_image=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRtAurNc_HvWOa-CAOY_OeuhcTbEOpZgE33VU8oC7Ky2IlEyTxLYN3Mzwc%26s%3D10&name=Mayank+Agrawal&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="GitHub Stats" />
-</div>
-
 
 <br>
 <div align='center'>
 	<a href='https://github.com/lirena00'>
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LittleCodr&show_icons=true&layout=compact&theme=github_dark&hide_border=true">
-	<img width="49.5%" src='https://github-readme-activity-graph.vercel.app/graph?username=LittleCodr&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9'>
 	</a>
 </div>
 </div>
