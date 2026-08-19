@@ -14,7 +14,7 @@
 
 <!-- 4) Lucifer line (neon underline via animated SVG) -->
 <p style="font-family:serif; font-size:16px; color:#b30000; max-width:780px; margin:10px auto;">
-  <strong>Save time. Just open my portfolio.</strong>
+  <strong>please stalk me on my portfolio, who tf stalks on github 🥺</strong>
 </p>
 
 <!-- 6) Short pitch + tech icons -->
