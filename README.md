@@ -32,7 +32,6 @@
 <br>
 <div align='center'>
 	<a href='https://github.com/lirena00'>
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LittleCodr&show_icons=true&layout=compact&theme=github_dark&hide_border=true">
 	<img width="49.5%" src='https://github-readme-activity-graph.vercel.app/graph?username=LittleCodr&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9'>
 </a>
 </div>
@@ -58,17 +57,6 @@
   <a href="mailto:littlecodr@gmail.com">
     <img src="https://img.shields.io/badge/Email-5a0000?style=for-the-badge&logo=gmail&logoColor=gold" alt="Email" />
   </a>
-</div>
-
-<!-- 9) Quick facts - compact, dark-gold list -->
-<div style="max-width:760px;margin:22px auto;text-align:left;">
-  <h3 style="color:#ff4d4d;margin-bottom:6px;">Quick Facts</h3>
-  <ul style="color:#b86b6b;">
-    <li>Microsoft Learn Ambassador</li>
-    <li>iOS & Android (Swift & Java)</li>
-    <li>Full Stack: React / Node / Next</li>
-    <li>Product-focused: performance, scale, simplicity</li>
-  </ul>
 </div>
 
 <!-- 10) Footer with site + subtle signature -->
