@@ -1,6 +1,6 @@
 <div align="center">
 <!-- GLITCH TITLE -->
-<img alt="title" src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=44&duration=2500&pause=700&color=FF2B2B&center=true&vCenter=true&width=920&lines=Mayank+Agrawal;The+Devil+In+Disguise" />
+<img alt="title" src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=44&duration=2500&pause=700&color=FF2B2B&center=true&vCenter=true&width=920&lines=Mayank+Agrawal;I+am+Really+Semi-unemployed" />
 
 <br/>
 
