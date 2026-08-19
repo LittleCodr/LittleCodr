@@ -21,9 +21,6 @@
 <p style="color:#c43a3a; max-width:760px; margin:8px auto; font-size:14px;">
 I am a semi-unemployed developer, plaese hire me if u can 🥹 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,swift,kotlin,react,typescript,nodejs,nextjs,aws,git,github,docker,firebase,xcode,androidstudio&perline=7" alt="techstack" />
-</p>
 
 <!-- 7) Minimal Stats Panel - single card + streak -->
 
