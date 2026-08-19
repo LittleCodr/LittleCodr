@@ -64,7 +64,4 @@
   Portfolio: <a href="https://heymayank.in" style="color:#ff3b3b;">heymayank.in</a> · Built with focus, not noise.
 </p>
 
-</div>
-<div align="center">
-  <img src="https://asciify.its-apoorv.me/api/leetcode?username=peak_nigger&font_family=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify LeetCode Stats" />
-</div>
+</div
