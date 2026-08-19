@@ -60,8 +60,9 @@
 </div>
 
 <!-- 10) Footer with site + subtle signature -->
+<br>
 <p style="color:#7a1a1a;font-size:13px;">
-  Portfolio: <a href="https://heymayank.in" style="color:#ff3b3b;">heymayank.in</a> · Built with focus, not noise.
+  Portfolio: <a href="https://heymayank.in" style="color:#ff3b3b;">heymayank.in</a> naash ho liya ji mhara to 
 </p>
 
 </div
