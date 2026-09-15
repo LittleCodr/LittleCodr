@@ -54,7 +54,7 @@ I am a semi-unemployed developer, plaese hire me if u can 🥹 </p>
 <!-- 10) Footer with site + subtle signature -->
 <br>
 <p style="color:#7a1a1a;font-size:13px;">
-  Portfolio: <a href="https://heymayank.in" style="color:#ff3b3b;">heymayank.in</a> naash ho liya ji mhara to 
+  Portfolio: <a href="https://heymayank.in" style="color:#ff3b3b;">heymayank.in</a> naash ho liya ji mhara <a href="https://internshipshub.in/">to</a> 
 </p>
 
 </div
