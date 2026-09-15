@@ -27,10 +27,17 @@ I am a semi-unemployed developer, plaese hire me if u can 🥹 </p>
 
 <br>
 <div align='center'>
-	<a href='https://github.com/lirena00'>
-	<img width="49.5%" src='https://github-readme-activity-graph.vercel.app/graph?username=LittleCodr&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9'>
-</a>
+	<a href='https://github.com/LittleCodr'>
+		<img width="49.5%" src='https://github-stats-extended.vercel.app/api?username=LittleCodr&custom_title=LittleCodr&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true'>
+		<img width="49.5%" src='https://streak-stats.demolab.com/?user=LittleCodr&theme=github-dark-blue&hide_border=true'>
+	</a>
 </div>
+<br>
+<div align='center'>
+	<a href='https://github.com/LittleCodr'>
+	<img width="49.5%" src="https://github-stats-extended.vercel.app/api/top-langs?username=LittleCodr&layout=compact&langs_count=5&theme=github_dark&hide_border=true">
+	<img width="49.5%" src='https://github-readme-activity-graph.vercel.app/graph?username=LittleCodr&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9'>
+	</a>
 </div>
 
 ---
